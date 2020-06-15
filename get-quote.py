@@ -1,6 +1,6 @@
 #Known issue:
 #f.write will keep writing the same line over and over again to the txt file.
-#The print command prints the first line in a different way than the others.
+#The print command prints the first line in a different way than the others (at least in VS Code).
 
 import random
 def primary():
